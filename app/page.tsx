@@ -335,6 +335,14 @@ export default function Home() {
                 birthing process the most comfortable.
               </p>
             </div>
+
+            <div className="bg-muted rounded-lg p-8">
+              <h3 className="font-serif text-xl mb-4">Logistics</h3>
+              <p className="text-foreground/80 leading-relaxed">
+                We are fully committed to reimbursing all pregnancy-related expenses as permitted under the AHRA.
+                We believe in transparency and will ensure you never have to worry about out-of-pocket costs.
+              </p>
+            </div>
           </div>
         </div>
       </section>
