@@ -464,14 +464,14 @@ export default function Home() {
           </p>
 
           <a
-            href="mailto:your-email@example.com"
+            href="mailto:Nick-and-Daniel@proton.me"
             className="inline-block bg-primary hover:bg-primary-dark text-white px-8 py-4 rounded-lg text-lg transition-colors"
           >
             Get in Touch
           </a>
 
           <p className="mt-8 text-foreground/60">
-            Or email us directly at: <span className="text-primary">your-email@example.com</span>
+            Or email us directly at: <span className="text-primary">Nick-and-Daniel@proton.me</span>
           </p>
         </div>
       </section>
