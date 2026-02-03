@@ -24,7 +24,7 @@ export default function Home() {
             Nick & Daniel
           </h1>
           <p className="text-xl md:text-2xl text-foreground/80 mb-8">
-            Looking for an independent surrogate in Canada to help us grow our family
+            Hoping to Connect: Our Independent Surrogacy Story
           </p>
           <div className="w-24 h-1 bg-secondary mx-auto mb-12"></div>
 

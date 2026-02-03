@@ -15,8 +15,8 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "Nick & Daniel | Independent Surrogacy Canada | Looking for a Surrogate",
-  description: "We're Nick and Daniel, a loving couple based in Paris, looking for an independent surrogate in Canada to help us grow our family. Learn about our journey, our story, and what we're looking for in a surrogacy partnership.",
+  title: "Nick & Daniel | Independent Surrogacy Journey | Intended Parents Canada",
+  description: "Gay couple from Paris with embryos ready at Victory Reproductive Care (Canada). Seeking an altruistic connection with an independent surrogate to help grow our family.",
   keywords: [
     "independent surrogacy Canada",
     "looking for surrogate Canada",
